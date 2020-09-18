@@ -2,3 +2,4 @@ header {background-image: url(fondo1.jpg);background-repeat: no-repeat;backgroun
 .logo {width: 200px}
 .cuadrotxt {margin-left: auto;margin-right: auto; background-color: steelblue; color: white;height: 100px; text-align: center; width: 500px; }
 .azul{color: steelblue; text-align: center;}
+footer{background-image: url(fondo2.jpg);background-repeat: no-repeat;background-size: cover; height:300px}
