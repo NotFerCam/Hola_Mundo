@@ -3,6 +3,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     height:190px;
+    text-align: center;
 }
 .logo {
     width: 90px
@@ -21,9 +22,25 @@ header {
     color: steelblue;
     text-align: center;
 }
+.cervantes{
+    margin-left: auto;
+    margin-right: auto;
+}
+#articulo{
+    
+    height: 500px;
+}
+table{
+    float: right;
+    margin-right: 450px;
+}
+#3{
+    float: right;
+}
 footer{
     background-image: url(../img/fondo2.jpg)
     ;background-repeat: no-repeat
     ;background-size: cover;
-    height:300px
+    height:190px;
+    text-align: center;
 }
