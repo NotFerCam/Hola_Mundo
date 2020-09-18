@@ -34,8 +34,8 @@ table{
     float: right;
     margin-right: 450px;
 }
-#3{
-    float: right;
+#izq{
+    float: left;
 }
 footer{
     background-image: url(../img/fondo2.jpg)
