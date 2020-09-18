@@ -23,6 +23,7 @@ header {
     text-align: center;
 }
 .cervantes{
+    border-radius: 50%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -32,10 +33,12 @@ header {
 }
 table{
     float: right;
-    margin-right: 450px;
+    margin-right: 20px;
 }
-#izq{
+.izq{
+    color: steelblue;
     float: left;
+    margin-right: 500px;
 }
 footer{
     background-image: url(../img/fondo2.jpg)
