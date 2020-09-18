@@ -1,27 +1,28 @@
 header {
-    background-image: url(fondo1.jpg);
+    background-image: url(../img/fondo1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height:300px
+    height:190px;
 }
 .logo {
-    width: 200px
+    width: 90px
 }
 .cuadrotxt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: auto;
     margin-right: auto;
     background-color: steelblue;
     color: white;
-    height: 100px;
+    height: 90px;
     text-align: center;
-    width: 500px; 
+    width: 350px; 
 }
 .azul{
     color: steelblue;
     text-align: center;
 }
 footer{
-    background-image: url(fondo2.jpg)
+    background-image: url(../img/fondo2.jpg)
     ;background-repeat: no-repeat
     ;background-size: cover;
     height:300px
